@@ -46,7 +46,7 @@ The AI system analyzes the submitted information to:
 ### AI & Machine Learning
 - Scikit-learn
 - Hugging Face
-- OpenAI/Gemini API (if used)
+- OpenAI/Gemini API 
 
 ## System Workflow
 
